@@ -1,0 +1,8 @@
+Game
+-Tablero
+--Fichas
+--Turnos
+--Patrones(Ganar)
+-Fichas
+--Color
+--Comportamiento(Gravedad)
